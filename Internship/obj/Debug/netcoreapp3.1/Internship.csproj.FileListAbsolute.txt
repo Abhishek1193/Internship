@@ -1,0 +1,13 @@
+C:\Users\sridh\source\repos\Internship\Internship\bin\Debug\netcoreapp3.1\Internship.exe
+C:\Users\sridh\source\repos\Internship\Internship\bin\Debug\netcoreapp3.1\Internship.deps.json
+C:\Users\sridh\source\repos\Internship\Internship\bin\Debug\netcoreapp3.1\Internship.runtimeconfig.json
+C:\Users\sridh\source\repos\Internship\Internship\bin\Debug\netcoreapp3.1\Internship.runtimeconfig.dev.json
+C:\Users\sridh\source\repos\Internship\Internship\bin\Debug\netcoreapp3.1\Internship.dll
+C:\Users\sridh\source\repos\Internship\Internship\bin\Debug\netcoreapp3.1\Internship.pdb
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.AssemblyInfoInputs.cache
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.AssemblyInfo.cs
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.csproj.CoreCompileInputs.cache
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.dll
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.pdb
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.genruntimeconfig.cache
+C:\Users\sridh\source\repos\Internship\Internship\obj\Debug\netcoreapp3.1\Internship.csproj.AssemblyReference.cache
